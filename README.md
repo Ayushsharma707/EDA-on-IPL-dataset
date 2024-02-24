@@ -22,7 +22,7 @@ We have covered the basic analysis from IPL 2008 to IPL 2019.
 2.Maximum and minimum matches in a season   
 3.Prefered Toss decision per season   
 4.Decison made after winning the toss    
-5.Numbers of matches won by Toss result 
+5.Numbers of matches won by Toss result      
 6.Has Toss-winning helped in Match-winning?     
 7.Toss decision vs win/loss    
 8.Total number of matches won by each team   
