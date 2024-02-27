@@ -12,8 +12,8 @@ Loading the Dataset: Load the IPL dataset into a Pandas DataFrame using the pd.r
 
 Basic Exploration: This step involves understanding the basic structure of the dataset. You can use functions like df.head() to display the first few rows, df.describe() to get summary statistics of numerical columns, and df.info() to get information about column data types and missing values.    
 
-Data Cleaning: Before diving into analysis, it's important to clean the data. This step includes identifying and handling missing values (df.isnull().sum()), and removing duplicate rows (df.drop_duplicates()).    
-
+Data Cleaning: Before diving into analysis, it's important to clean the data. This step includes identifying and handling missing values (df.isnull().sum())
+     
 Exploratory Analysis: In this phase, you generate visualizations to gain insights into the data. For example, you can create a bar plot using sns.countplot() to show the number of matches played in each IPL season. This gives an overview of the tournament's growth over the years.   
 
 We have covered the basic analysis from IPL 2008 to IPL 2019.
