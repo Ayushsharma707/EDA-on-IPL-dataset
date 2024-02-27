@@ -19,28 +19,28 @@ Exploratory Analysis: In this phase, you generate visualizations to gain insight
 We have covered the basic analysis from IPL 2008 to IPL 2019.
 
 1.Total number of matches played in each season  
-2.Maximum and minimum matches in a season   
-3.Prefered Toss decision per season   
-4.Decison made after winning the toss    
-5.Numbers of matches won by Toss result      
-6.Has Toss-winning helped in Match-winning?     
-7.Toss decision vs win/loss    
-8.Total number of matches won by each team   
-9.Number of wins per team    
-10.Win by highest margin per season     
-11.Score Distribution of Each Team for First Innings   
-12.Score Distribution of Each Team for Second Innings   
-13.Finding the Factors Affecting the Victory   
-14.Number of times scored or conceded above 200 runs by each team  
-15.City wise analysis  
-16.Stadium Wise Analysis   
-17.Comparing two teams  
-18.MI vs CSK Head-to-Head Match Results   
-19.Most Player of the Match Award Winner   
-20.Numbers of six hit in each season  
+2.Prefered Toss decision per season     
+3.Decison made after winning the toss     
+4.Numbers of matches won by Toss result         
+5.Has Toss-winning helped in Match-winning?       
+6.Toss decision vs win/loss       
+7.Total number of matches won by each team        
+8.Number of wins per team       
+9.Win by highest margin per season         
+10.Score Distribution of Each Team for First Innings      
+11.Score Distribution of Each Team for Second Innings       
+12.Finding the Factors Affecting the Victory      
+13.Number of times scored or conceded above 200 runs by each team    
+14.City wise analysis     
+15.Stadium Wise Analysis       
+16.Comparing two teams      
+17.MI vs CSK Head-to-Head Match Results      
+18.Most Player of the Match Award Winner     
+19.Numbers of six hit in each season    
+20.Numbers of fours hit in each season    
 Player Analysis          
-21.Most Number of Maximum   
-22.Most Number of Boundaries (4s)  
+21.Most Number of Maximum (6s)     
+22.Most Number of Maximum (4s)  
 23.Highest Run Scorers  
 24.Most Number of Half-Centuries and Centuries   
 25.Most Number of Half-Centuries   
