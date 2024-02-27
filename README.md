@@ -39,8 +39,8 @@ We have covered the basic analysis from IPL 2008 to IPL 2019.
 19.Numbers of six hit in each season    
 20.Numbers of fours hit in each season    
 Player Analysis          
-21.Most Number of Maximum   
-22.Most Number of Boundaries (4s)  
+21.Most Number of Maximum (6s)     
+22.Most Number of Maximum (4s)  
 23.Highest Run Scorers  
 24.Most Number of Half-Centuries and Centuries   
 25.Most Number of Half-Centuries   
