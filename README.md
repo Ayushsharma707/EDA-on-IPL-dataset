@@ -52,4 +52,4 @@ Bowling Analysis
 30.Bowler with most number of wickets   
 
 ## Analysis   
-Click [HERE]() to view the analysis.
+Click [HERE](https://github.com/Ayushsharma707/EDA-on-IPL-dataset/blob/main/Notebook.ipynb) to view the analysis.
